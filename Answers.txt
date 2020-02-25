@@ -1,0 +1,31 @@
+1. Django is a full stack web framework while FLask only handles backend 
+frameworks. Also django can handle authentication while flask does not handle this feature.
+
+2 . REST stands for representation state trasnfer,
+When something is Restful it means that it uses certain api's to communicate 
+which incdlue things like POST, GET,PUT ,DELETE
+
+3. CRUD Stands for create,read,update, delete. It is the basic functions for persistent storage.
+For create the method is PUT, for read the method is GET, for update the method is POST,
+for delete the method is DELETE.
+
+4. 1xx are informational status codes, 2xx are codes to indicate that success where request has succeeded or udnerstood.
+3xx codes indicate that further action is required to get to the destinate URL.
+4xx responses are for where there is an error of the request by the client.
+5xx codes mean there is a problem of the request caused by the server.
+
+5.Xss is cross-site scripting, and it is when the client attacks a server by injecting scripts 
+into web pages for other users. This can cause the attacker to bypass local security measures.
+
+6 CORS stands for Cross-origin resource sharing, we need it if we want to allow a website of a 
+different origin to have access to data of our own database.
+
+
+
+
+
+
+
+
+
+
